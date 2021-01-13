@@ -1,0 +1,62 @@
+.slider{
+    background-color: #FEEAE9;
+}
+.carousel-item{
+    padding: 30px 45px;
+
+}
+.slider{
+    border-radius: 30px;
+    margin-top: 100px;
+}
+.button{
+    background-image: linear-gradient(#ff136f,#ff589b);
+    padding: 10px 20px;
+    color: white;
+    border: none;
+    border-radius: 20px;
+}
+.highlight{
+    color: #ff136f;
+}
+.cat1 , .cat2 , .cat3{
+    color: white;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blue;
+}
+.shopping-card{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px lightgray;
+}
+.footer-button{
+    border: none;
+    background-color: white;
+    margin: auto;
+}
+.saty-in-touch-area{
+    height: 400px;
+    background-color: #FEEAE9;
+}
+.subscribe-area h6{
+    text-align: center;
+}
+
+.subscribe-area input{
+    display: block;
+    margin:10px ;
+    width: 100%;
+ }
+ .subscribe-area button{
+     width: 50%;
+     margin-left: 100px;
+ }
